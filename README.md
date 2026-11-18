@@ -34,6 +34,26 @@ transmitted anywhere.
 
 ---
 
+## 🩹 Patch list
+
+<!-- PATCHES_START EXPANDED -->
+> **[v1.0.0](https://github.com/ClmentCch/Richees/releases/tag/v1.0.0)**&nbsp;&nbsp;•&nbsp;&nbsp;`main`&nbsp;&nbsp;•&nbsp;&nbsp;1 patches total
+<details open>
+<summary>📦 Discord&nbsp;&nbsp;•&nbsp;&nbsp;1 patch</summary>
+<br>
+
+**Package name:** `com.discord`
+
+| 💊&nbsp;Patch | 📜&nbsp;Description | ⚙️&nbsp;Options |
+|----------|----------------|-----------|
+| [Richyss Bridge](#richyss-bridge) | Adds a local, credential-free content provider that Richyss uses to detect this patch and hand over Rich Presence payloads. |  |
+
+</details>
+
+<!-- PATCHES_END -->
+
+---
+
 ## 🚀 Installation
 
 ### 1. Install Morphe
