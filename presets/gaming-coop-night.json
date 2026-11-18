@@ -1,0 +1,27 @@
+{
+  "schema": 1,
+  "id": "gaming-coop-night",
+  "name": "Coop night",
+  "description": "Soirée coop avec tes amis, petit texte et chrono.",
+  "category": "gaming",
+  "author": "Richyss",
+  "version": "1.0.0",
+  "profile": {
+    "schema": 1,
+    "id": "preset-gaming-coop-night",
+    "name": "Coop night",
+    "icon": "🎮",
+    "description": "Soirée coop avec tes amis, petit texte et chrono.",
+    "activityType": 0,
+    "activityName": "Coop night",
+    "details": "Session coop",
+    "state": "Avec les copains",
+    "largeImage": "",
+    "smallImage": "",
+    "largeText": "",
+    "smallText": "",
+    "timerEnabled": true,
+    "buttons": [],
+    "updatedAt": 0
+  }
+}

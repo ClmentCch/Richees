@@ -1,0 +1,27 @@
+{
+  "schema": 1,
+  "id": "music-now-playing",
+  "name": "Now playing",
+  "description": "Montre ce que tu écoutes avec un style sobre façon Discord.",
+  "category": "music",
+  "author": "Richyss",
+  "version": "1.0.0",
+  "profile": {
+    "schema": 1,
+    "id": "preset-music-now-playing",
+    "name": "Now playing",
+    "icon": "🎧",
+    "description": "Montre ce que tu écoutes avec un style sobre façon Discord.",
+    "activityType": 2,
+    "activityName": "Now playing",
+    "details": "Playlist du moment",
+    "state": "Musique",
+    "largeImage": "",
+    "smallImage": "",
+    "largeText": "",
+    "smallText": "",
+    "timerEnabled": false,
+    "buttons": [],
+    "updatedAt": 0
+  }
+}

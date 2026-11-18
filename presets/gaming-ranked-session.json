@@ -1,0 +1,32 @@
+{
+  "schema": 1,
+  "id": "gaming-ranked-session",
+  "name": "Ranked session",
+  "description": "Session classée avec compteur de temps et bouton vers ton serveur.",
+  "category": "gaming",
+  "author": "Richyss",
+  "version": "1.0.0",
+  "profile": {
+    "schema": 1,
+    "id": "preset-gaming-ranked-session",
+    "name": "Ranked session",
+    "icon": "🎯",
+    "description": "Session classée avec compteur de temps et bouton vers ton serveur.",
+    "activityType": 0,
+    "activityName": "Ranked grind",
+    "details": "Push vers le prochain rang",
+    "state": "Queue en cours",
+    "largeImage": "",
+    "smallImage": "",
+    "largeText": "",
+    "smallText": "",
+    "timerEnabled": true,
+    "buttons": [
+      {
+        "label": "Serveur Discord",
+        "url": "https://discord.gg/"
+      }
+    ],
+    "updatedAt": 0
+  }
+}

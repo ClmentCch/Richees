@@ -1,0 +1,32 @@
+{
+  "schema": 1,
+  "id": "custom-streaming-setup",
+  "name": "Stream setup",
+  "description": "Présence de diffusion avec horaire de fin.",
+  "category": "custom",
+  "author": "Richyss",
+  "version": "1.0.0",
+  "profile": {
+    "schema": 1,
+    "id": "preset-custom-streaming-setup",
+    "name": "Stream setup",
+    "icon": "📡",
+    "description": "Présence de diffusion avec horaire de fin.",
+    "activityType": 1,
+    "activityName": "Live",
+    "details": "On est en direct",
+    "state": "Streaming",
+    "largeImage": "",
+    "smallImage": "",
+    "largeText": "",
+    "smallText": "",
+    "timerEnabled": true,
+    "buttons": [
+      {
+        "label": "Chaîne",
+        "url": "https://twitch.tv/"
+      }
+    ],
+    "updatedAt": 0
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "schema": 1,
+  "id": "social-hangout",
+  "name": "Hangout",
+  "description": "Simple présence sociale, deux lignes de texte.",
+  "category": "social",
+  "author": "Richyss",
+  "version": "1.0.0",
+  "profile": {
+    "schema": 1,
+    "id": "preset-social-hangout",
+    "name": "Hangout",
+    "icon": "💬",
+    "description": "Simple présence sociale, deux lignes de texte.",
+    "activityType": 0,
+    "activityName": "Hangout",
+    "details": "Discussion",
+    "state": "Disponible",
+    "largeImage": "",
+    "smallImage": "",
+    "largeText": "",
+    "smallText": "",
+    "timerEnabled": false,
+    "buttons": [],
+    "updatedAt": 0
+  }
+}

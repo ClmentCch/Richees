@@ -1,0 +1,27 @@
+{
+  "schema": 1,
+  "id": "social-chill-voice",
+  "name": "Chill voice",
+  "description": "Pour une session vocale détendue.",
+  "category": "social",
+  "author": "Richyss",
+  "version": "1.0.0",
+  "profile": {
+    "schema": 1,
+    "id": "preset-social-chill-voice",
+    "name": "Chill voice",
+    "icon": "🎙️",
+    "description": "Pour une session vocale détendue.",
+    "activityType": 2,
+    "activityName": "Chill voice",
+    "details": "Salon vocal",
+    "state": "Entre deux conversations",
+    "largeImage": "",
+    "smallImage": "",
+    "largeText": "",
+    "smallText": "",
+    "timerEnabled": false,
+    "buttons": [],
+    "updatedAt": 0
+  }
+}

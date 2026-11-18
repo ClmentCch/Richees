@@ -1,0 +1,32 @@
+{
+  "schema": 1,
+  "id": "programming-deep-work",
+  "name": "Deep work",
+  "description": "Session de code concentrée avec chrono et lien vers ton dépôt.",
+  "category": "programming",
+  "author": "Richyss",
+  "version": "1.0.0",
+  "profile": {
+    "schema": 1,
+    "id": "preset-programming-deep-work",
+    "name": "Deep work",
+    "icon": "💻",
+    "description": "Session de code concentrée avec chrono et lien vers ton dépôt.",
+    "activityType": 0,
+    "activityName": "Deep work",
+    "details": "Écriture de code",
+    "state": "Focus mode",
+    "largeImage": "",
+    "smallImage": "",
+    "largeText": "",
+    "smallText": "",
+    "timerEnabled": true,
+    "buttons": [
+      {
+        "label": "Voir le dépôt",
+        "url": "https://github.com/"
+      }
+    ],
+    "updatedAt": 0
+  }
+}

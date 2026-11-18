@@ -1,0 +1,96 @@
+{
+  "schema": 1,
+  "version": "1.0.0",
+  "presets": [
+    {
+      "id": "gaming-ranked-session",
+      "name": "Ranked session",
+      "description": "Session classée avec compteur de temps et bouton vers ton serveur.",
+      "category": "gaming",
+      "author": "Richyss",
+      "version": "1.0.0",
+      "path": "presets/gaming-ranked-session.json"
+    },
+    {
+      "id": "gaming-coop-night",
+      "name": "Coop night",
+      "description": "Soirée coop avec tes amis, petit texte et chrono.",
+      "category": "gaming",
+      "author": "Richyss",
+      "version": "1.0.0",
+      "path": "presets/gaming-coop-night.json"
+    },
+    {
+      "id": "music-now-playing",
+      "name": "Now playing",
+      "description": "Montre ce que tu écoutes avec un style sobre façon Discord.",
+      "category": "music",
+      "author": "Richyss",
+      "version": "1.0.0",
+      "path": "presets/music-now-playing.json"
+    },
+    {
+      "id": "music-lofi-focus",
+      "name": "Lo-fi focus",
+      "description": "Session lo-fi pour travailler, avec chrono écoulé.",
+      "category": "music",
+      "author": "Richyss",
+      "version": "1.0.0",
+      "path": "presets/music-lofi-focus.json"
+    },
+    {
+      "id": "programming-deep-work",
+      "name": "Deep work",
+      "description": "Session de code concentrée avec chrono et lien vers ton dépôt.",
+      "category": "programming",
+      "author": "Richyss",
+      "version": "1.0.0",
+      "path": "presets/programming-deep-work.json"
+    },
+    {
+      "id": "programming-debugging",
+      "name": "Debugging",
+      "description": "Quand tu chasses un bug depuis 3 heures.",
+      "category": "programming",
+      "author": "Richyss",
+      "version": "1.0.0",
+      "path": "presets/programming-debugging.json"
+    },
+    {
+      "id": "social-hangout",
+      "name": "Hangout",
+      "description": "Simple présence sociale, deux lignes de texte.",
+      "category": "social",
+      "author": "Richyss",
+      "version": "1.0.0",
+      "path": "presets/social-hangout.json"
+    },
+    {
+      "id": "social-chill-voice",
+      "name": "Chill voice",
+      "description": "Pour une session vocale détendue.",
+      "category": "social",
+      "author": "Richyss",
+      "version": "1.0.0",
+      "path": "presets/social-chill-voice.json"
+    },
+    {
+      "id": "custom-ryss-mood",
+      "name": "Richyss mood",
+      "description": "Profil vitrine de Richyss avec ses deux boutons.",
+      "category": "custom",
+      "author": "Richyss",
+      "version": "1.0.0",
+      "path": "presets/custom-ryss-mood.json"
+    },
+    {
+      "id": "custom-streaming-setup",
+      "name": "Stream setup",
+      "description": "Présence de diffusion avec horaire de fin.",
+      "category": "custom",
+      "author": "Richyss",
+      "version": "1.0.0",
+      "path": "presets/custom-streaming-setup.json"
+    }
+  ]
+}

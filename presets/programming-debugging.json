@@ -1,0 +1,27 @@
+{
+  "schema": 1,
+  "id": "programming-debugging",
+  "name": "Debugging",
+  "description": "Quand tu chasses un bug depuis 3 heures.",
+  "category": "programming",
+  "author": "Richyss",
+  "version": "1.0.0",
+  "profile": {
+    "schema": 1,
+    "id": "preset-programming-debugging",
+    "name": "Debugging",
+    "icon": "🐛",
+    "description": "Quand tu chasses un bug depuis 3 heures.",
+    "activityType": 0,
+    "activityName": "Debugging",
+    "details": "Chasse au bug",
+    "state": "Ça compile presque",
+    "largeImage": "",
+    "smallImage": "",
+    "largeText": "",
+    "smallText": "",
+    "timerEnabled": true,
+    "buttons": [],
+    "updatedAt": 0
+  }
+}

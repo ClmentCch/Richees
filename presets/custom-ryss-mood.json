@@ -1,0 +1,36 @@
+{
+  "schema": 1,
+  "id": "custom-ryss-mood",
+  "name": "Richyss mood",
+  "description": "Profil vitrine de Richyss avec ses deux boutons.",
+  "category": "custom",
+  "author": "Richyss",
+  "version": "1.0.0",
+  "profile": {
+    "schema": 1,
+    "id": "preset-custom-ryss-mood",
+    "name": "Richyss mood",
+    "icon": "🟣",
+    "description": "Profil vitrine de Richyss avec ses deux boutons.",
+    "activityType": 0,
+    "activityName": "Richyss",
+    "details": "Custom Rich Presence",
+    "state": "Mode personnalisé",
+    "largeImage": "",
+    "smallImage": "",
+    "largeText": "",
+    "smallText": "",
+    "timerEnabled": true,
+    "buttons": [
+      {
+        "label": "Richyss",
+        "url": "https://github.com/ClmentCch/Richees"
+      },
+      {
+        "label": "Patches",
+        "url": "https://github.com/ClmentCch/Richees/tree/main"
+      }
+    ],
+    "updatedAt": 0
+  }
+}

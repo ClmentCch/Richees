@@ -1,0 +1,300 @@
+{
+  "fetchedAt": 0,
+  "source": "bundled",
+  "documents": [
+    {
+      "schema": 1,
+      "id": "gaming-ranked-session",
+      "name": "Ranked session",
+      "description": "Session classée avec compteur de temps et bouton vers ton serveur.",
+      "category": "gaming",
+      "author": "Richyss",
+      "version": "1.0.0",
+      "profile": {
+        "schema": 1,
+        "id": "preset-gaming-ranked-session",
+        "name": "Ranked session",
+        "icon": "🎯",
+        "description": "Session classée avec compteur de temps et bouton vers ton serveur.",
+        "activityType": 0,
+        "activityName": "Ranked grind",
+        "details": "Push vers le prochain rang",
+        "state": "Queue en cours",
+        "largeImage": "",
+        "smallImage": "",
+        "largeText": "",
+        "smallText": "",
+        "timerEnabled": true,
+        "buttons": [
+          {
+            "label": "Serveur Discord",
+            "url": "https://discord.gg/"
+          }
+        ],
+        "updatedAt": 0
+      }
+    },
+    {
+      "schema": 1,
+      "id": "gaming-coop-night",
+      "name": "Coop night",
+      "description": "Soirée coop avec tes amis, petit texte et chrono.",
+      "category": "gaming",
+      "author": "Richyss",
+      "version": "1.0.0",
+      "profile": {
+        "schema": 1,
+        "id": "preset-gaming-coop-night",
+        "name": "Coop night",
+        "icon": "🎮",
+        "description": "Soirée coop avec tes amis, petit texte et chrono.",
+        "activityType": 0,
+        "activityName": "Coop night",
+        "details": "Session coop",
+        "state": "Avec les copains",
+        "largeImage": "",
+        "smallImage": "",
+        "largeText": "",
+        "smallText": "",
+        "timerEnabled": true,
+        "buttons": [],
+        "updatedAt": 0
+      }
+    },
+    {
+      "schema": 1,
+      "id": "music-now-playing",
+      "name": "Now playing",
+      "description": "Montre ce que tu écoutes avec un style sobre façon Discord.",
+      "category": "music",
+      "author": "Richyss",
+      "version": "1.0.0",
+      "profile": {
+        "schema": 1,
+        "id": "preset-music-now-playing",
+        "name": "Now playing",
+        "icon": "🎧",
+        "description": "Montre ce que tu écoutes avec un style sobre façon Discord.",
+        "activityType": 2,
+        "activityName": "Now playing",
+        "details": "Playlist du moment",
+        "state": "Musique",
+        "largeImage": "",
+        "smallImage": "",
+        "largeText": "",
+        "smallText": "",
+        "timerEnabled": false,
+        "buttons": [],
+        "updatedAt": 0
+      }
+    },
+    {
+      "schema": 1,
+      "id": "music-lofi-focus",
+      "name": "Lo-fi focus",
+      "description": "Session lo-fi pour travailler, avec chrono écoulé.",
+      "category": "music",
+      "author": "Richyss",
+      "version": "1.0.0",
+      "profile": {
+        "schema": 1,
+        "id": "preset-music-lofi-focus",
+        "name": "Lo-fi focus",
+        "icon": "🎵",
+        "description": "Session lo-fi pour travailler, avec chrono écoulé.",
+        "activityType": 2,
+        "activityName": "Lo-fi focus",
+        "details": "Beats to focus to",
+        "state": "Session de travail",
+        "largeImage": "",
+        "smallImage": "",
+        "largeText": "",
+        "smallText": "",
+        "timerEnabled": true,
+        "buttons": [],
+        "updatedAt": 0
+      }
+    },
+    {
+      "schema": 1,
+      "id": "programming-deep-work",
+      "name": "Deep work",
+      "description": "Session de code concentrée avec chrono et lien vers ton dépôt.",
+      "category": "programming",
+      "author": "Richyss",
+      "version": "1.0.0",
+      "profile": {
+        "schema": 1,
+        "id": "preset-programming-deep-work",
+        "name": "Deep work",
+        "icon": "💻",
+        "description": "Session de code concentrée avec chrono et lien vers ton dépôt.",
+        "activityType": 0,
+        "activityName": "Deep work",
+        "details": "Écriture de code",
+        "state": "Focus mode",
+        "largeImage": "",
+        "smallImage": "",
+        "largeText": "",
+        "smallText": "",
+        "timerEnabled": true,
+        "buttons": [
+          {
+            "label": "Voir le dépôt",
+            "url": "https://github.com/"
+          }
+        ],
+        "updatedAt": 0
+      }
+    },
+    {
+      "schema": 1,
+      "id": "programming-debugging",
+      "name": "Debugging",
+      "description": "Quand tu chasses un bug depuis 3 heures.",
+      "category": "programming",
+      "author": "Richyss",
+      "version": "1.0.0",
+      "profile": {
+        "schema": 1,
+        "id": "preset-programming-debugging",
+        "name": "Debugging",
+        "icon": "🐛",
+        "description": "Quand tu chasses un bug depuis 3 heures.",
+        "activityType": 0,
+        "activityName": "Debugging",
+        "details": "Chasse au bug",
+        "state": "Ça compile presque",
+        "largeImage": "",
+        "smallImage": "",
+        "largeText": "",
+        "smallText": "",
+        "timerEnabled": true,
+        "buttons": [],
+        "updatedAt": 0
+      }
+    },
+    {
+      "schema": 1,
+      "id": "social-hangout",
+      "name": "Hangout",
+      "description": "Simple présence sociale, deux lignes de texte.",
+      "category": "social",
+      "author": "Richyss",
+      "version": "1.0.0",
+      "profile": {
+        "schema": 1,
+        "id": "preset-social-hangout",
+        "name": "Hangout",
+        "icon": "💬",
+        "description": "Simple présence sociale, deux lignes de texte.",
+        "activityType": 0,
+        "activityName": "Hangout",
+        "details": "Discussion",
+        "state": "Disponible",
+        "largeImage": "",
+        "smallImage": "",
+        "largeText": "",
+        "smallText": "",
+        "timerEnabled": false,
+        "buttons": [],
+        "updatedAt": 0
+      }
+    },
+    {
+      "schema": 1,
+      "id": "social-chill-voice",
+      "name": "Chill voice",
+      "description": "Pour une session vocale détendue.",
+      "category": "social",
+      "author": "Richyss",
+      "version": "1.0.0",
+      "profile": {
+        "schema": 1,
+        "id": "preset-social-chill-voice",
+        "name": "Chill voice",
+        "icon": "🎙️",
+        "description": "Pour une session vocale détendue.",
+        "activityType": 2,
+        "activityName": "Chill voice",
+        "details": "Salon vocal",
+        "state": "Entre deux conversations",
+        "largeImage": "",
+        "smallImage": "",
+        "largeText": "",
+        "smallText": "",
+        "timerEnabled": false,
+        "buttons": [],
+        "updatedAt": 0
+      }
+    },
+    {
+      "schema": 1,
+      "id": "custom-ryss-mood",
+      "name": "Richyss mood",
+      "description": "Profil vitrine de Richyss avec ses deux boutons.",
+      "category": "custom",
+      "author": "Richyss",
+      "version": "1.0.0",
+      "profile": {
+        "schema": 1,
+        "id": "preset-custom-ryss-mood",
+        "name": "Richyss mood",
+        "icon": "🟣",
+        "description": "Profil vitrine de Richyss avec ses deux boutons.",
+        "activityType": 0,
+        "activityName": "Richyss",
+        "details": "Custom Rich Presence",
+        "state": "Mode personnalisé",
+        "largeImage": "",
+        "smallImage": "",
+        "largeText": "",
+        "smallText": "",
+        "timerEnabled": true,
+        "buttons": [
+          {
+            "label": "Richyss",
+            "url": "https://github.com/ClmentCch/Richees"
+          },
+          {
+            "label": "Patches",
+            "url": "https://github.com/ClmentCch/Richees/tree/main"
+          }
+        ],
+        "updatedAt": 0
+      }
+    },
+    {
+      "schema": 1,
+      "id": "custom-streaming-setup",
+      "name": "Stream setup",
+      "description": "Présence de diffusion avec horaire de fin.",
+      "category": "custom",
+      "author": "Richyss",
+      "version": "1.0.0",
+      "profile": {
+        "schema": 1,
+        "id": "preset-custom-streaming-setup",
+        "name": "Stream setup",
+        "icon": "📡",
+        "description": "Présence de diffusion avec horaire de fin.",
+        "activityType": 1,
+        "activityName": "Live",
+        "details": "On est en direct",
+        "state": "Streaming",
+        "largeImage": "",
+        "smallImage": "",
+        "largeText": "",
+        "smallText": "",
+        "timerEnabled": true,
+        "buttons": [
+          {
+            "label": "Chaîne",
+            "url": "https://twitch.tv/"
+          }
+        ],
+        "updatedAt": 0
+      }
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "schema": 1,
+  "id": "music-lofi-focus",
+  "name": "Lo-fi focus",
+  "description": "Session lo-fi pour travailler, avec chrono écoulé.",
+  "category": "music",
+  "author": "Richyss",
+  "version": "1.0.0",
+  "profile": {
+    "schema": 1,
+    "id": "preset-music-lofi-focus",
+    "name": "Lo-fi focus",
+    "icon": "🎵",
+    "description": "Session lo-fi pour travailler, avec chrono écoulé.",
+    "activityType": 2,
+    "activityName": "Lo-fi focus",
+    "details": "Beats to focus to",
+    "state": "Session de travail",
+    "largeImage": "",
+    "smallImage": "",
+    "largeText": "",
+    "smallText": "",
+    "timerEnabled": true,
+    "buttons": [],
+    "updatedAt": 0
+  }
+}
